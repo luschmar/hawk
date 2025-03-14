@@ -227,7 +227,7 @@ hawk.1.header
 1353832234
 j4h3g2
 GET
-/resource?a=1&b=2
+/resource/1?b=1&a=2
 example.com
 8000
 
@@ -291,7 +291,7 @@ hawk.1.header
 1353832234
 j4h3g2
 POST
-/resource?a=1&b=2
+/resource/1?b=1&a=2
 example.com
 8000
 Yi9LfIIFRtBEPt74PVmbTF/xVAwPn7ub15ePICfgnuY=
